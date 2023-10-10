@@ -1,0 +1,15 @@
+C:\Kurs\UdemyKurs\Deneme1111\obj\Debug\net7.0\Deneme1111.csproj.AssemblyReference.cache
+C:\Kurs\UdemyKurs\Deneme1111\obj\Debug\net7.0\Deneme1111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kurs\UdemyKurs\Deneme1111\obj\Debug\net7.0\Deneme1111.AssemblyInfoInputs.cache
+C:\Kurs\UdemyKurs\Deneme1111\obj\Debug\net7.0\Deneme1111.AssemblyInfo.cs
+C:\Kurs\UdemyKurs\Deneme1111\obj\Debug\net7.0\Deneme1111.csproj.CoreCompileInputs.cache
+C:\Kurs\UdemyKurs\Deneme1111\bin\Debug\net7.0\Deneme1111.exe
+C:\Kurs\UdemyKurs\Deneme1111\bin\Debug\net7.0\Deneme1111.deps.json
+C:\Kurs\UdemyKurs\Deneme1111\bin\Debug\net7.0\Deneme1111.runtimeconfig.json
+C:\Kurs\UdemyKurs\Deneme1111\bin\Debug\net7.0\Deneme1111.dll
+C:\Kurs\UdemyKurs\Deneme1111\bin\Debug\net7.0\Deneme1111.pdb
+C:\Kurs\UdemyKurs\Deneme1111\obj\Debug\net7.0\Deneme1111.dll
+C:\Kurs\UdemyKurs\Deneme1111\obj\Debug\net7.0\refint\Deneme1111.dll
+C:\Kurs\UdemyKurs\Deneme1111\obj\Debug\net7.0\Deneme1111.pdb
+C:\Kurs\UdemyKurs\Deneme1111\obj\Debug\net7.0\Deneme1111.genruntimeconfig.cache
+C:\Kurs\UdemyKurs\Deneme1111\obj\Debug\net7.0\ref\Deneme1111.dll
